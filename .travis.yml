@@ -1,0 +1,10 @@
+sudo: false
+language: ruby
+rvm:
+  - 2.5
+  - 2.6
+  - ruby-head
+before_install:
+  - echo yes | gem update --system
+script:
+  - rake
