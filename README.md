@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IO.console
 
 Add console capabilities to IO instances.
@@ -44,3 +45,7 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/ruby/i
 ## License
 
 The gem is available as open source under the terms of the [2-Clause BSD License](https://opensource.org/licenses/BSD-2-Clause).
+=======
+# io-console
+add console capabilities to IO instance
+>>>>>>> 02cfa3de23c0447852cd101925a3459f95fbd523
